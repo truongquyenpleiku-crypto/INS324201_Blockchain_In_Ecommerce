@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-practice-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bip39": "^3.1.2",
+    "cors": "^2.8.6",
+    "ethereumjs-util": "^7.1.5",
+    "express": "^5.3.0",
+    "hdkey": "^2.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "ethers": "^6.17.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
